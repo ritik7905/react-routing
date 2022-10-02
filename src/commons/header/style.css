@@ -1,0 +1,10 @@
+.lists .active{
+    background-color: red;
+}
+
+.lists{
+    display: flex;
+    gap: 20px;
+    list-style: none;
+
+}
